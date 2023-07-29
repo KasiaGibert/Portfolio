@@ -37,7 +37,11 @@ Hey! My name is Kasia Gibert. I have recently completed postgraduate degree in S
 - Testowanie oprogramowani - Rafał Pawlak
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 
-
+## My projects
+### SQL
+- [Project_SQL](https://github.com/KasiaGibert/Project_SQL)
+### Selenium WebDriver
+- [Project_Selenium_Python](https://github.com/KasiaGibert/Project_Selenium_Python)
 
 
 
