@@ -45,11 +45,11 @@ As a professional and a communicative person, I pride myself on being a team pla
 ### Selenium WebDriver
 - [Project_Selenium_Python](https://github.com/KasiaGibert/Project_Selenium_Python)
 ### Test cases
-- [TestCases](https://github.com/KasiaGibert/TestCases)
+- [Test_Cases](https://github.com/KasiaGibert/TestCases)
 ### BDD
 - [BDD_examples](https://github.com/KasiaGibert/BDD)
 ### Bug reports
-- [Bug_reports_jira](https://github.com/KasiaGibert/Bug_reports)
+- [Bug_reports_Jira](https://github.com/KasiaGibert/Bug_reports)
 ### HTML and CSS
 - [HTML_CSS](https://github.com/KasiaGibert/html_css)
 
