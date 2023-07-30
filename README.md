@@ -48,5 +48,7 @@ As a professional and a communicative person, I pride myself on being a team pla
 - [TestCases](https://github.com/KasiaGibert/TestCases)
 ### BDD
 - [BDD_examples](https://github.com/KasiaGibert/BDD)
+### Bug reports
+- [Bug_reports_jira](https://github.com/KasiaGibert/Bug_reports)
 
 
