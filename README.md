@@ -46,6 +46,7 @@ As a professional and a communicative person, I pride myself on being a team pla
 - [Project_Selenium_Python](https://github.com/KasiaGibert/Project_Selenium_Python)
 ### Test cases
 - [TestCases](https://github.com/KasiaGibert/TestCases)
-
+### BDD
+- [BDD_examples](https://github.com/KasiaGibert/BDD)
 
 
