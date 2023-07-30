@@ -44,6 +44,8 @@ As a professional and a communicative person, I pride myself on being a team pla
 - [Project_SQL](https://github.com/KasiaGibert/Project_SQL)
 ### Selenium WebDriver
 - [Project_Selenium_Python](https://github.com/KasiaGibert/Project_Selenium_Python)
+### Test cases
+- [TestCases](https://github.com/KasiaGibert/TestCases)
 
 
 
