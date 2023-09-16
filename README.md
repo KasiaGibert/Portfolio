@@ -23,7 +23,7 @@ As a professional and a communicative person, I pride myself on being a team pla
 -	HTML / CSS
 -	Visual Studio Code 
 -	PyCharm 
--	SQL Server Management Studio
+-	MS SQL Server, MySQL
 
 ## Skills
 -	Creating test cases and scenarios
