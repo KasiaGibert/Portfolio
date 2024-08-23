@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Hello! I'm Kasia Gibert, and I earned a postgraduate degree in Software Testing at WSB University. Since October 2022, I have been enhancing my skills in software testing and since November 2023, I have been working on the Dare IT Mentoring program with my mentor to improve my software tester skills. My ultimate aspiration is to become an automation tester, and I am eagerly seeking new career opportunities in the field of Software Testing.
+Hello! I'm Kasia Gibert, and I earned a postgraduate degree in Software Testing at WSB University. Since October 2022, I have been enhancing my skills in software testing. I am eagerly seeking new career opportunities in the field of Software Testing.
 
 As a professional and communicative person, I pride myself on being a team player and can easily adapt to both fast-paced and laid-back work environments. My commitment to continuous growth in this field motivates me to share my experiences and knowledge, as I am determined to demonstrate the skills I have acquired and further develop in the realm of software testing.
 
@@ -11,6 +11,7 @@ As a professional and communicative person, I pride myself on being a team playe
 - ISTQB Certified Tester Foundation Level
 
 ## Courses
+- Dare IT Mentoring is a 4-month program where I work with my mentor on my Software Tester skills
 - Udemy
   -	The basics of manual software testing 
   -	Practical software testing course 
